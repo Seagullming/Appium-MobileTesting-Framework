@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19061" started-at="2019-09-13T10:43:40 NZST" finished-at="2019-09-13T10:44:00 NZST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19061" started-at="2019-09-13T10:43:40 NZST" finished-at="2019-09-13T10:44:00 NZST">
+      <class name="appium.mobiletest">
+        <test-method status="PASS" signature="Set()[pri:0, instance:appium.mobiletest@65e2dbf3]" name="Set" is-config="true" duration-ms="10621" started-at="2019-09-13T10:43:40 NZST" finished-at="2019-09-13T10:43:51 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set -->
+        <test-method status="PASS" signature="takeScreenShot()[pri:0, instance:appium.mobiletest@65e2dbf3]" name="takeScreenShot" duration-ms="6287" started-at="2019-09-13T10:43:51 NZST" finished-at="2019-09-13T10:43:57 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShot -->
+        <test-method status="PASS" signature="End()[pri:0, instance:appium.mobiletest@65e2dbf3]" name="End" is-config="true" duration-ms="2039" started-at="2019-09-13T10:43:57 NZST" finished-at="2019-09-13T10:44:00 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- appium.mobiletest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
